@@ -4,4 +4,4 @@ It's my practice project of single page with menu based on html, css and  javasc
 
 Live version below:
 
-https://juzba.github.io/Greenhouse/.
+https://greg6589.github.io/Greenhouse/.
